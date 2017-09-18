@@ -5,3 +5,6 @@
 - gradle
 - git
 - shadowscoks
+
+chrome插件网
+http://www.cnplugins.com/devtool/proxy-switchysharp/
